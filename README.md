@@ -3,6 +3,8 @@
 
 The Real-Time Chat App, developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Socket.IO, is an innovative platform that facilitates seamless real-time communication. Through instant messaging and collaboration features, this application redefines user interactions and experiences.
 
+Link : https://famous-elf-add16c.netlify.app
+
 ## Key Technologies and Features:
 
 * MongoDB: Securely stores user profiles, chat histories, and relevant data. The flexible structure of MongoDB ensures efficient data management.
